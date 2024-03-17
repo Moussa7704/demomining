@@ -2277,8 +2277,8 @@ function App() {
                         </div>
                         <div className="unit-body">
                           <div className="box-info-content">
-                            <h5 className="box-info-title">Our Mission</h5>
-                            <p className="box-info-text">We are a responsible mining corporation that discovers and processes minerals and energy resources for the use of society. Our company partners directly with customers to enable them to achieve zero harm, the highest production, and the lowest lifecycle cost for their mining operations, while making every customer a reference.</p><a className="box-info-link" href="#">Read More</a>
+                            <h5 className="box-info-title">Notre mission</h5>
+                            <p className="box-info-text">Nous sommes une société minière responsable qui découvre et traite des minéraux et des ressources énergétiques pour l’usage de la société. Notre société s'associe directement avec ses clients pour leur permettre d'atteindre le zéro dommage, la production la plus élevée et le coût de cycle de vie le plus bas pour leurs opérations minières, tout en faisant de chaque client une référence.</p><a className="box-info-link" href="#">Lire plus</a>
                           </div>
                         </div>
                       </div>
