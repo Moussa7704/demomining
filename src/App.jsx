@@ -2204,10 +2204,10 @@ function App() {
                   <h5 className="nav-tabs-2-title">About Company</h5><span className="icon mdi mdi-arrow-down" data-custom-scroll-to="about" />
                 </div>
                 <ul className="nav nav-tabs-2">
-                  <li className="nav-item-2 wow fadeInRight" role="presentation"><a className="active" href="#tabs-8-1" data-bs-toggle="tab">Company values</a></li>
-                  <li className="nav-item-2 wow fadeInRight" role="presentation"><a href="#tabs-8-2" data-bs-toggle="tab">Our Mission</a></li>
-                  <li className="nav-item-2 wow fadeInRight" role="presentation"><a href="#tabs-8-3" data-bs-toggle="tab">Our Vision</a></li>
-                  <li className="nav-item-2 wow fadeInRight" role="presentation"><a href="#tabs-8-4" data-bs-toggle="tab">View report</a></li>
+                  <li className="nav-item-2 wow fadeInRight" role="presentation"><a className="active" href="#tabs-8-1" data-bs-toggle="tab">Valeurs de Mine First</a></li>
+                  <li className="nav-item-2 wow fadeInRight" role="presentation"><a href="#tabs-8-2" data-bs-toggle="tab">Notre mission</a></li>
+                  <li className="nav-item-2 wow fadeInRight" role="presentation"><a href="#tabs-8-3" data-bs-toggle="tab">Notre vision</a></li>
+                  {/* <li className="nav-item-2 wow fadeInRight" role="presentation"><a href="#tabs-8-4" data-bs-toggle="tab">View report</a></li> */}
                 </ul>
               </div>
               <div className="col-lg-8 tab-content-2 wow fadeInLeft">
@@ -2293,7 +2293,7 @@ function App() {
                         </div>
                         <div className="unit-body">
                           <div className="box-info-content">
-                            <h5 className="box-info-title">Our Vision</h5>
+                            <h5 className="box-info-title">Notre vision</h5>
                             <p className="box-info-text">Our vision is to be a highly respected, world-class natural-resource company committed to deliver excellent value to its investors, employees, and other stakeholders. We aspire to be a world-class service company delivering the most reliable and efficient products, systems, and solutions that solve the toughest mining challenges.</p><a className="box-info-link" href="#">Read More</a>
                           </div>
                         </div>
